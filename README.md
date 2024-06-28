@@ -52,4 +52,5 @@ Analyze job descriptions to identify common keywords and phrases that reflect th
 # Usage
 Download and run on the Google Colab.
 
-
+PowrBi link:
+https://app.powerbi.com/groups/me/reports/c0939a31-945b-4e39-921a-393b871192d7/14c217627f9116c0c19f?experience=power-bi
